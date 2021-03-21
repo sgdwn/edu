@@ -11,17 +11,17 @@
 [3.1 Biological Molecules Summary.pdf](https://github.com/sgdwn/edu/files/6177342/3.1.Biological.Molecules.Summary.pdf)  
 
 ### .1 Monomers and Polymers	
-Notes: Important Biological Molecules	(https://iod.li/9w8vu8l) 
+Notes: Important Biological Molecules	<https://iod.li/9w8vu8l> 
 
-Read: Introduction to Monomers and Polymers	(https://iod.li/t93i6ba) 
+Read: Introduction to Monomers and Polymers	<https://iod.li/t93i6ba> 
 
-Seneca: Monomers and Polymers	(https://iod.li/gp2q3xj) 
+Seneca: Monomers and Polymers	<https://iod.li/gp2q3xj> 
 
-Seneca: Hydrolysis and Condensation	(https://iod.li/qfwne0b) 
+Seneca: Hydrolysis and Condensation	<https://iod.li/qfwne0b> 
 
-Video: Hydrolysis	(https://iod.li/l82y3zx) 
+Video: Hydrolysis	<https://iod.li/l82y3zx> 
 
-Video: Condensation Reactions	(https://iod.li/8y0ssrh) 
+Video: Condensation Reactions	<https://iod.li/8y0ssrh> 
 
 ### .2 Carbohydrates	
 
