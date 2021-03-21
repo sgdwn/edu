@@ -1,7 +1,7 @@
 # Creative Commons Attribution-ShareAlike 4.0 International Public License  
 
 
-<img src="https://user-images.githubusercontent.com/74820599/111903771-c3589c80-8a3b-11eb-8c1e-6c1e27a4c98d.png" height="600">  
+<img src="https://user-images.githubusercontent.com/74820599/111903771-c3589c80-8a3b-11eb-8c1e-6c1e27a4c98d.png" width="50%">  
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.  
 
