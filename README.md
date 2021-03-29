@@ -6,8 +6,7 @@
 [Maths](https://sgdwn.github.io/edu//maths)  
   
   
-## GCSE  
-[English - Set Texts](https://read.iod.li)
+  
   
   
   
