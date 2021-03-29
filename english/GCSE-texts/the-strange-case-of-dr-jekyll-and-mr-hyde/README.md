@@ -1,2 +1,0 @@
-# The Strange Case of Dr Jekyll and Mr Hyde
-
