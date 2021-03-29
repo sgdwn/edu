@@ -126,54 +126,54 @@ Summary PDF	<https://iod.li/zpybh25>
 
 ### .1 Cell Structure	
 
-Notes: Cells	https://iod.li/lnnnax6  
+Notes: Cells	<https://iod.li/lnnnax6>  
 
-Seneca: Introduction to Cells	https://iod.li/98ejull  
+Seneca: Introduction to Cells	<https://iod.li/98ejull>  
 
-Seneca: Eukaryotic Cells and Organelles (1 + 2)	https://iod.li/i8eyud7 https://iod.li/2tdwzw7  
+Seneca: Eukaryotic Cells and Organelles (1 + 2)	<https://iod.li/i8eyud7> <https://iod.li/2tdwzw7>  
 
-Seneca: Prokaryotes	https://iod.li/ld3l3v9  
+Seneca: Prokaryotes	<https://iod.li/ld3l3v9>  
 
-Khan Academy: Cell Organelles	https://iod.li/cdr0twl  
+Khan Academy: Cell Organelles	<https://iod.li/cdr0twl>  
 
-Seneca: Studying Cells	https://iod.li/q4i9bb5  
+Seneca: Studying Cells	<https://iod.li/q4i9bb5>  
 
-Seneca: Microscopy	https://iod.li/hm23hff  
+Seneca: Microscopy	<https://iod.li/hm23hff>  
 
-Notes: Microscopy and Cell Organelles	https://iod.li/6xtbvzd  
+Notes: Microscopy and Cell Organelles	<https://iod.li/6xtbvzd>  
 
-Notes: Cell Fractionation	https://iod.li/m0b16tw  
+Notes: Cell Fractionation	<https://iod.li/m0b16tw>  
 
-Notes: Biological Drawings	https://iod.li/a2nwx9k  
+Notes: Biological Drawings	<https://iod.li/a2nwx9k>  
 
-Cells: 10 Qu Quiz (telegram)	https://iod.li/04351ao  
+Cells: 10 Qu Quiz (telegram)	<https://iod.li/04351ao>  
 
 ### .2 All cells arise from other cells	 
 
-Notes: Mitosis	https://iod.li/wopcqk1  
+Notes: Mitosis	<https://iod.li/wopcqk1>  
 
-Seneca: Mitosis	https://iod.li/gw251lk  
+Seneca: Mitosis	<https://iod.li/gw251lk>  
 
-Seneca: Investigating Mitosis	https://iod.li/1s7v1rc  
+Seneca: Investigating Mitosis	<https://iod.li/1s7v1rc>  
 
-Seneca: Cancer	https://iod.li/dofj0z5  
+Seneca: Cancer	<https://iod.li/dofj0z5>  
 
 			
 ### .3 Transport across Membranes	 
 
-Notes: Transport Across Membranes	https://iod.li/x3ocr4s  
+Notes: Transport Across Membranes	<https://iod.li/x3ocr4s>  
 
-Seneca: Cell Membrane Structure	https://iod.li/w4maegq  
+Seneca: Cell Membrane Structure	<https://iod.li/w4maegq>  
 
-Seneca: A/A* Cell Membrane Structure	https://iod.li/2e1am8m  
+Seneca: A/A* Cell Membrane Structure	<https://iod.li/2e1am8m>  
 
-Seneca: Diffusion	https://iod.li/fh76inb  
+Seneca: Diffusion	<https://iod.li/fh76inb>  
 
-Seneca: Osmosis	https://iod.li/tj9m9qa  
+Seneca: Osmosis	<https://iod.li/tj9m9qa>  
 
-Seneca: Active Transport	https://iod.li/wsfxklm  
+Seneca: Active Transport	<https://iod.li/wsfxklm>  
 
-Crash Course: Transport across mem.	https://iod.li/ohcgwc7  
+Crash Course: Transport across membranes	<https://iod.li/ohcgwc7>  
 
 
 ### .4 Cell Recognition, Immune System		  
@@ -184,10 +184,10 @@ Crash Course: Transport across mem.	https://iod.li/ohcgwc7
 			
 ### Revision	  
 
-PowerPoint: Cells	https://iod.li/uqele11   
+PowerPoint: Cells	<https://iod.li/uqele11>   
 
-Quizlet: Key Terms	https://iod.li/1c16q4g  
+Quizlet: Key Terms	<https://iod.li/1c16q4g>  
 
-Summary PDF	https://iod.li/v9q3oxh   
+Summary PDF	<https://iod.li/v9q3oxh>   
 
 
