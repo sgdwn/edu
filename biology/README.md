@@ -178,9 +178,28 @@ Crash Course: Transport across membranes	<https://iod.li/ohcgwc7>
 
 ### .4 Cell Recognition, Immune System		  
 			
-			
-			
-			
+Seneca: Immune System	<https://iod.li/iyvptlt>
+
+Crash Course: Immune System	<https://iod.li/cl3zjke> 
+
+Seneca: Immune Response	<https://iod.li/6luapxf>
+
+Crash Course: Immune System 1 A+P	<https://iod.li/oi4uy2b>
+
+Crash Course: Immune System 2 A+P	<https://iod.li/clsg898>
+
+Seneca: Antibodies	<https://iod.li/7eyxsth>
+
+Seneca: Primary and Secondary Responses	<https://iod.li/v2g4b16>
+
+Seneca: Vaccines	<https://iod.li/jvlvnv4>
+
+Seneca: HIV	<https://iod.li/fuxeigd>
+
+Seneca: Ethical Issues	<https://iod.li/ij0m18d>
+
+Crash Course: Public Health and Covid-19	<https://iod.li/8jj577l>
+		
 			
 ### Revision	  
 
