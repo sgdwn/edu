@@ -239,4 +239,37 @@ Seneca: REDOX Test	<https://iod.li/oktfvus>
 		
 Crash Course: REDOX	<https://iod.li/4eyd69o>  
 
-## Thermodynamics		 
+## Thermodynamics	
+
+---
+
+# Inorganic Chemistry  
+
+### .1 Periodicity and Trends	  
+
+Seneca: The Periodic Table	https://iod.li/0svghgi  
+
+Seneca: Trends in the Periodic Table	https://iod.li/ll0ls3e  
+
+Seneca: Test – Periodicity and Trends	  
+
+Crash Course: Periodic Table	https://iod.li/t8mdddx  
+
+		
+### .2 Group 2	  
+Seneca: Group 2	https://iod.li/9s6n8cr  
+
+		
+		
+### .3 Group 7	 
+Seneca: Halogens Introduction	https://iod.li/ulqjll8  
+
+Seneca: Halogen Reactions	 
+Seneca: Chlorine and Chlorate(I)	 
+Seneca: Topic Test – Group 7	 
+Seneca: Exam Questions – Group 7	 
+Seneca: A-A* Periodicity, Group 2/7	 
+
+
+
+
