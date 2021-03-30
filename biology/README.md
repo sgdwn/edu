@@ -190,4 +190,57 @@ Quizlet: Key Terms	<https://iod.li/1c16q4g>
 
 Summary PDF	<https://iod.li/v9q3oxh>   
 
+---
+# Organisms Exchange Substances with their Environment  
+### .1 Surface Area:Volume Ratio	  
+
+Seneca: Size and Surface Area	<https://iod.li/xbrk339>  
+
+Seneca: A-A* Cell Size	<https://iod.li/jdqgedd>  
+		
+### .2 Gas Exchange	  
+
+Seneca: Single-celled Organisms	<https://iod.li/avuka9o>  
+
+Seneca: Multi-cellular Organisms	<https://iod.li/403ne30>  
+
+Seneca: Control of Water Loss	<https://iod.li/08mpn14>  
+
+Seneca: Human Gas Exchange	<https://iod.li/twytyix>  
+
+Seneca: Ventilation	<https://iod.li/xc467pt>  
+
+Seneca: Lung Disease	<https://iod.li/t0s5c4p>  
+
+Seneca: Lung Disease	<https://iod.li/xizg8kv>   
+
+Seneca: Dissection	
+Seneca: Measuring Gas Exchange	
+Crash Course: Respiratory System 1	<https://iod.li/yj18nxu>  
+
+Crash Course: Respiratory System 2	<https://iod.li/x1bh9m1>  
+
+		
+### .3 Digestion and Absorption	    
+
+Seneca: Digestion Overview	<https://iod.li/m1lxk31>  
+
+Seneca: Digestion in Mammals	<https://iod.li/3yzrgzd>  
+
+Seneca: Absorption	<https://iod.li/fchsbyq>  
+
+Crash Course: Digestive System in Detail 1	<https://iod.li/bngm3jm>  
+
+Crash Course: Digestive System in Detail 2	<https://iod.li/bgbdce2>  
+
+Crash Course: Digestive System in Detail 3	<https://iod.li/7he29z2>  
+
+TedEd: Digestive System	<https://iod.li/9rhx7gl>  
+
+		
+		
+### .4 Mass Transport	    
+
+Crash Course: Circulatory and Respiratory Systems	<https://iod.li/djcpqmm>  
+
 
