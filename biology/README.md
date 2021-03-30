@@ -263,3 +263,46 @@ TedEd: Digestive System	<https://iod.li/9rhx7gl>
 Crash Course: Circulatory and Respiratory Systems	<https://iod.li/djcpqmm>  
 
 
+---
+# Genetic Information, Variation, and Relationships between Organisms  
+
+### .1 DNA, Genes, Chromosomes	  
+
+Seneca: DNA	<https://iod.li/ooenteb>   
+
+Seneca: Genes	<https://iod.li/zbhy8iv>  
+
+Crash Course: DNA Structure	<https://iod.li/zgbld00>  
+
+		
+### .2 DNA + Protein Synthesis	  
+
+Seneca: Protein Synthesis	<https://iod.li/w267vlo>  
+
+Seneca: Transcription and Translation	<https://iod.li/0nfnrfi>  
+
+Crash Course: DNA Transcription and Translation	<https://iod.li/pffcjcn>  
+		
+### .3 Genetic Diversity can arise due to Mutations and Meiosis	  
+
+Seneca: Mutations	<https://iod.li/nsp0ct8>  
+
+Seneca: Meiosis	<https://iod.li/ohebx3g>  
+
+Seneca: Meiosis vs Mitosis	<https://iod.li/pam09hq>  
+		
+### .4 Genetic Diversity and Adaptation	 
+
+Seneca: Genetic Diversity	<https://iod.li/dc7fnk9>  
+
+Seneca: Natural Selection	<https://iod.li/vs1dt3b>  
+
+Seneca: Adaptations	<https://iod.li/g4iyya8>  
+
+Seneca: Investigating Natural Selection	<https://iod.li/pcfuml8>  
+
+		
+### .5 Species and Taxonomy	  
+
+Crash Course: Taxonomy	<https://iod.li/31io1m8>  
+
