@@ -269,7 +269,8 @@ Seneca: Chlorine and Chlorate(I)
 Seneca: Topic Test – Group 7	 
 Seneca: Exam Questions – Group 7	 
 Seneca: A-A* Periodicity, Group 2/7	 
-
-
-
-
+  
+  
+  
+---
+<img src="https://user-images.githubusercontent.com/74820599/113147214-75584b80-9228-11eb-9dcc-ce7484513388.png" height="70">
