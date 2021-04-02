@@ -24,12 +24,6 @@ The contents of this repository is shared under a Creative Commons Attribution-S
 
 
 
-::selection {
-  background: #ffb7b7; /* WebKit/Blink Browsers */
-}
-::-moz-selection {
-  background: #ffb7b7; /* Gecko Browsers */
-}
 
 
   
