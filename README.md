@@ -1,9 +1,7 @@
 # edu
 ---
 ## A Level  
-[Biology](https://sgdwn.github.io/edu//biology)  
-[Chemistry](https://sgdwn.github.io/edu/chemistry)  
-[Maths](https://sgdwn.github.io/edu//maths)  
+
   
   
 <a href="https://edu.iod.li/chemistry">
