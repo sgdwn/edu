@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/74820599/113571070-8aa8ed80-960d-11eb-9160-586da8ab464e.png" alt="A Level Chemistry" style="width:20%;">
 </a><a href="https://edu.iod.li/maths">
   <img src="https://user-images.githubusercontent.com/74820599/113571206-d78cc400-960d-11eb-80c3-d479a8f9e72d.png" alt="A Level Maths" style="width:20%;">
-</a><a href="https://edu.iod.li/biologgy">
+</a><a href="https://edu.iod.li/biology">
   <img src="https://user-images.githubusercontent.com/74820599/113571689-c2fcfb80-960e-11eb-97a3-e3bb06ce83a8.png" alt="A Level Biology" style="width:20%;">
 </a>
 
