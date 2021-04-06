@@ -30,7 +30,6 @@ The contents of this repository is shared under a Creative Commons Attribution-S
 
 <img src="https://user-images.githubusercontent.com/74820599/113404108-8d061000-939f-11eb-8506-fda709a7ee07.png" height="70"><img src="https://user-images.githubusercontent.com/74820599/113404105-8bd4e300-939f-11eb-8de9-310f8a62645e.png" height="70"><img src="https://user-images.githubusercontent.com/74820599/113404094-89728900-939f-11eb-9876-9c2d2d285319.png" height="70"><img src="https://user-images.githubusercontent.com/74820599/113147214-75584b80-9228-11eb-9dcc-ce7484513388.png" height="70">
 
-Service status: <https://iod.li/6x2r92h>
 
 
 
