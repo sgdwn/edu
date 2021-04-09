@@ -11,9 +11,10 @@
 [3.1.3 Bonding.pptx](https://github.com/sgdwn/edu/files/6285425/3.1.3.Bonding.pptx)
 
 [3.1.4_Energetics_Summary.pdf](https://github.com/sgdwn/edu/files/6257929/3.1.4_Energetics_Summary.pdf)  
-[3.1.4 Kinetics.pptx](https://github.com/sgdwn/edu/files/6285427/3.1.4.Kinetics.pptx)
+  
 
 [3.1.5 Kinetics Summary.pdf](https://github.com/sgdwn/edu/files/6177350/3.1.6.Kinetics.Summary.pdf)  
+[3.1.5 Kinetics.pptx](https://github.com/sgdwn/edu/files/6285427/3.1.4.Kinetics.pptx)
 
 [3.1.6 REDOX Summary.pdf](https://github.com/sgdwn/edu/files/6177352/3.1.6.REDOX.Summary.pdf)  
 [3.1.6 REDOX.pptx](https://github.com/sgdwn/edu/files/6285428/3.1.5.REDOX.pptx)
