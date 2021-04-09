@@ -2,12 +2,25 @@
 ---
 ## Physical Chemistry  
 [3.1.1 Atomic Structure Summary.pdf](https://github.com/sgdwn/edu/files/6177345/3.1.1.Atomic.Structure.Summary.pdf)  
+[3.1.1 - Atomic Configuration.pptx](https://github.com/sgdwn/edu/files/6285419/3.1.1.-.Atomic.Configuration.1.pptx)  
+
 [3.1.2 Amount of Substance Summary.pdf](https://github.com/sgdwn/edu/files/6177346/3.1.2.Amount.of.Substance.Summary.pdf)  
+[3.1.2 Amounts of Substance.pptx](https://github.com/sgdwn/edu/files/6285424/3.1.2.Amounts.of.Substance.pptx)
+
 [3.1.3 Bonding Summary.pdf](https://github.com/sgdwn/edu/files/6177348/3.1.3.Bonding.Summary.pdf)  
-[3.1.4_Energetics_Summary.pdf](https://github.com/sgdwn/edu/files/6257929/3.1.4_Energetics_Summary.pdf)
+[3.1.3 Bonding.pptx](https://github.com/sgdwn/edu/files/6285425/3.1.3.Bonding.pptx)
+
+[3.1.4_Energetics_Summary.pdf](https://github.com/sgdwn/edu/files/6257929/3.1.4_Energetics_Summary.pdf)  
+[3.1.4 Kinetics.pptx](https://github.com/sgdwn/edu/files/6285427/3.1.4.Kinetics.pptx)
+
 [3.1.5 Kinetics Summary.pdf](https://github.com/sgdwn/edu/files/6177350/3.1.6.Kinetics.Summary.pdf)  
+
 [3.1.6 REDOX Summary.pdf](https://github.com/sgdwn/edu/files/6177352/3.1.6.REDOX.Summary.pdf)  
+[3.1.6 REDOX.pptx](https://github.com/sgdwn/edu/files/6285428/3.1.5.REDOX.pptx)
+
 [3.1.7 Equilibria Summary.pdf](https://github.com/sgdwn/edu/files/6177353/3.1.6.Equilibria.Summary.pdf)  
+[3.1.7 Equilibria.pptx](https://github.com/sgdwn/edu/files/6285429/3.1.6.Equilibria.pptx)
+
   
 
 ## Inorganic Chemistry
