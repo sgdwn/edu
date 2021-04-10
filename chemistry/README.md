@@ -293,3 +293,4 @@ Seneca: A-A* Periodicity, Group 2/7
   
 ---
 <img src="https://user-images.githubusercontent.com/74820599/113147214-75584b80-9228-11eb-9dcc-ce7484513388.png" height="70">
+<img src="https://pixel.iod.li/?edu.iod.li.albio">
