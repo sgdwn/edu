@@ -1,4 +1,3 @@
-![sa xlarge](https://user-images.githubusercontent.com/74820599/115199430-1b41fc00-a0eb-11eb-946c-e54c652b8ca8.png)
 # edu
 ---
 ## A Level  
